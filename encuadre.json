@@ -13,12 +13,10 @@
   "category": "Salud y fitness",
   "isFeatured": false,
   "screenshots": [
-    "https://raw.githubusercontent.com/omegaone545/OneMore/main/OneMore/Capturas/primera.png",
-    "https://raw.githubusercontent.com/omegaone545/OneMore/main/OneMore/Capturas/segunda.png",
-    "https://raw.githubusercontent.com/omegaone545/OneMore/main/OneMore/Capturas/tercera.png",
-    "https://raw.githubusercontent.com/omegaone545/OneMore/main/OneMore/Capturas/cuarta.png",
-    "https://raw.githubusercontent.com/omegaone545/OneMore/main/OneMore/Capturas/quinta.png"
-    
+    "https://raw.githubusercontent.com/omegaone545/Encuadre/refs/heads/main/foto1.jpg",
+    "https://raw.githubusercontent.com/omegaone545/Encuadre/refs/heads/main/foto2.jpg",
+    "https://raw.githubusercontent.com/omegaone545/Encuadre/refs/heads/main/foto3.jpg",
+    "https://raw.githubusercontent.com/omegaone545/Encuadre/refs/heads/main/foto4.jpg"
   ],
- "whatsNew": "• Al editar una rutina, los ejercicios muestran la información del entrenamiento\n• Ahora puedes reordenar los ejercicios de un día desde la edición de la rutina\n• Los botones de Añadir ejercicio, Copiar a... y otras acciones ahora pueden desplazarse horizontalmente\n• Ahora puedes exportar tus rutinas a PDF\n• Se han renovado y mejorado múltiples apartados de Configuración"
+ "whatsNew": ""
 }
